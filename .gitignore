@@ -1,0 +1,23 @@
+# Altium generated files
+History/
+__Previews/
+Project Logs for *
+Project Outputs for *
+
+*.bak
+*.ddb
+*.log
+*.zip
+*.pdf
+*.REP
+*.RPT
+*.apr
+*.OutJobOutputs
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
